@@ -91,3 +91,19 @@ The demo catalogue now uses product packshot image URLs for the sample products 
 ## V19 Sage & Pearl colour correction
 
 The interface uses the Sage & Pearl palette consistently. Purple/lavender theme values from the previous version have been replaced with sage, olive, and warm pearl tones.
+
+
+
+## clone 
+git clone https://github.com/dariyatum/Lumi-re-Beauty.git
+
+## Enter Project 
+cd Lumi-re-Beauty
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+
